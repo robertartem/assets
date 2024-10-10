@@ -1,0 +1,14 @@
+[
+	{
+		"title": "Loop Network",
+		"url": "#",
+		"group": "Mainnets",
+		"icon": "assets/configs/network_icon.svg"
+	},
+	{
+		"title": "Loop Network Testnet",
+		"url": "#",
+		"group": "Testnets",
+		"icon": "assets/configs/network_icon.svg"
+	}
+]
