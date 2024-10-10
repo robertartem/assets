@@ -1,14 +1,14 @@
 [
 	{
 		"title": "Loop Network",
-		"url": "#",
+		"url": "https://explorer.mainnetloop.com/",
 		"group": "Mainnets",
-		"icon": "assets/configs/network_icon.svg"
+		"icon": "https://raw.githubusercontent.com/robertartem/assets/refs/heads/main/explorer/network_icon.svg"
 	},
 	{
 		"title": "Loop Network Testnet",
-		"url": "#",
+		"url": "https://explorer.testnetloop.com/",
 		"group": "Testnets",
-		"icon": "assets/configs/network_icon.svg"
+		"icon": "https://raw.githubusercontent.com/robertartem/assets/refs/heads/main/explorer/network_icon.svg"
 	}
 ]
